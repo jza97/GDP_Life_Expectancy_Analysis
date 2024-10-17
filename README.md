@@ -16,7 +16,7 @@ This project analyzes the correlation between GDP and life expectancy across var
 
 ## How to Use
 
-1. Download the [**GDP_LEABY.ipynb**](dataset/GDP_LEABY.ipynb) file from the `dataset` folder.
+1. Download the [**GDP_LEABY.ipynb**](GDP_LEABY.ipynb) file and the [**all_data.csv**](dataset/all_data.csv) file from the `dataset` folder.
 2. Open it in [**Jupyter Notebook**](https://jupyter.org/install).
 3. Run the cells to execute the analysis and explore the relationship between GDP and life expectancy across different countries.
 4. Review the visualizations and results to understand the trends and correlation values calculated.
