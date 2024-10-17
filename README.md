@@ -10,6 +10,6 @@ This project analyzes the correlation between GDP and life expectancy across var
 
 ## Files
 
-- `your_notebook.ipynb`: Jupyter Notebook containing the analysis, visualizations, and correlation calculations.
-- `data.csv`: The dataset containing GDP and life expectancy values for different countries.
+- `GDP_LEABY.ipynb`: Jupyter Notebook containing the analysis, visualizations, and correlation calculations.
+- `all_data.csv`: The dataset containing GDP and life expectancy values for different countries.
 - `README.md`: Project description and instructions for use.
